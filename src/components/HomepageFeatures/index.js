@@ -8,8 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Inspired by people from the learn Indonesian Vajresh WhatsApp group. We bring you these resources to help you learn Indonesian language.
       </>
     ),
   },
@@ -18,13 +17,13 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        This is a free site, not monetized in any way. Should you spot a 
+        copyright infringement, please do contact us.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Powered by Docusaurus',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
