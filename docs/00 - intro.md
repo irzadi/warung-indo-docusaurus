@@ -119,5 +119,3 @@ In settings where predominantly young adults are addressed then use "**Saudara s
 ### Third Person
 
 Luckily social hierarchy plays a small role when referring to a third person so using **dia** for *he/she* and **mereka** for *they* is pretty safe in almost any situation.
-
-Hopefully this page whet your appetite for more. Check out the next chapterto read more about **word order** and **to be** in Indonesian.
