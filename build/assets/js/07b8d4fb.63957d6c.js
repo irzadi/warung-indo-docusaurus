@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwarung_indo=self.webpackChunkwarung_indo||[]).push([[806],{5745:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
